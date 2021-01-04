@@ -1,0 +1,17 @@
+.uploader .ButtonUP{
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 8px;
+    width: 15%;
+    text-align: center;
+    padding: 15px 25px;
+}
+
+.uploader .UploadedSign{
+    display:block;
+    margin:auto;
+    margin-top: 25px;
+    color: chartreuse;
+    text-align: center;
+}

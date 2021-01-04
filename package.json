@@ -2,12 +2,18 @@
   "name": "crossover-upload",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:8085",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
+    "axios": "^0.21.0",
+    "elasticsearch": "^16.7.2",
+    "multer-s3": "^2.9.0",
+    "mysql": "^2.18.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-images-upload": "^1.2.8",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
